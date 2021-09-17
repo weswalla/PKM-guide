@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "33e561c2af8ec385",
+    "type": "split",
+    "children": [
+      {
+        "id": "576cc8464c487c17",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Resources and further reading.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b86efc37eaccbfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce44a6e413aa88aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54dae22ca33f8cc3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "825bdf46eacbcd70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14bae777a608f30b",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d62848cb4348fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c567fd4a8fd5e9cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources and further reading.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23b54c923964533c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e1a5df313687c7a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources and further reading.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "576cc8464c487c17",
+  "lastOpenFiles": [
+    "Resources and further reading.md",
+    "Obsidian.md",
+    "presentation outline.md",
+    "edtech should make the compounding effects of increasing knowledge explicit.md",
+    "breaking down learning material into basic units of knowledge reduces the complexity of understanding.md",
+    "Personal Knowledge Management - tools and techniques for learning in the 21st century.md",
+    "PKM - an overview.md",
+    "Introduction.md",
+    "spaced-repetition flashcards.md",
+    "networked note-taking.md"
+  ]
+}
