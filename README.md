@@ -22,7 +22,7 @@ _Obsidian lets us link files to any other file, turning our notes into a **netwo
 ## setting this vault up in Obsidian
 1. download [Obsidian](https://obsidian.md/)
 2. download this repository (`Code -> Download ZIP`)
-	- ![download repository](download-github-repo.png)
+	- ![download repository](pictures/download-github-repo.png)
 3. unzip the folder and open the root folder as a vault in Obsidian (folder name `PKM-guide-main`)
 	- ![](pictures/open-as-vault.png)
 
