@@ -32,4 +32,4 @@ I've written a number of articles about PKM and other related topics found in th
 - [Zettelkasten: networked note-taking for naturally networked thought](https://wesleyfinck.medium.com/zettelkasten-networked-note-taking-for-naturally-networked-thought-1712809a35a0)
 
 I also made a short video overview of this vault, available here:
-- [A Guide to Personal Knowledge Management]()
+- [A Guide to Personal Knowledge Management](https://www.youtube.com/watch?v=h0f72KegyIs)
