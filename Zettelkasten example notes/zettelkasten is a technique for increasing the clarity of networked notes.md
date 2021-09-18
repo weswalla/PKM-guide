@@ -10,4 +10,6 @@ These principles increase the *clarity* and *value* of our notes.
 
 The value of our notes is not only encoded in the *contents*, but in the *structure* and *context*.
 
+![[Zettelkasten#^461dbb]]
+
 The structure and context is enabled by writing our notes as a graph. 
