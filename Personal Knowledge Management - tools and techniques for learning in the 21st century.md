@@ -10,3 +10,6 @@
 	- [[spaced-repetition flashcards]]
 - [[Resources and further reading]]
 - [[README]]
+
+# follow along
+![[Resources and further reading#QR code to this vault]]

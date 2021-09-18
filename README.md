@@ -12,16 +12,18 @@ This allows you to structure your notes as a _graph_ as opposed to a _hierarchic
 
 Put another way, a graph-based note structure means we are much less likely to lose a note/file and are much more likely to **find exactly what we want, when we want it**.
 ![](https://miro.medium.com/max/700/1*dCMynKvegvGjibBZh32hlQ.png)
+
 _our default file systems force us to organize and structure our notes as **hierarchical trees**_
 
 ![](https://miro.medium.com/max/700/1*f9MkMerdOj-6jxxM3Pd4SQ.png)
+
 _Obsidian lets us link files to any other file, turning our notes into a **network**_
 
 ## setting this vault up in Obsidian
 1. download [Obsidian](https://obsidian.md/)
-2. download this repository
-	- ![download repository]()
-3. open the root folder as a vault in Obsidian
+2. download this repository (`Code -> Download ZIP`)
+	- ![download repository](download-github-repo.png)
+3. unzip the folder and open the root folder as a vault in Obsidian (folder name `PKM-guide-main`)
 	- ![](pictures/open-as-vault.png)
 
 ## dive deeper
@@ -30,4 +32,4 @@ I've written a number of articles about PKM and other related topics found in th
 - [Zettelkasten: networked note-taking for naturally networked thought](https://wesleyfinck.medium.com/zettelkasten-networked-note-taking-for-naturally-networked-thought-1712809a35a0)
 
 I also made a short video overview of this vault, available here:
-- 
+- [A Guide to Personal Knowledge Management]()

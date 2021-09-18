@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources and further reading.md",
+            "file": "Personal Knowledge Management - tools and techniques for learning in the 21st century.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "14bae777a608f30b",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources and further reading.md",
+                "file": "Personal Knowledge Management - tools and techniques for learning in the 21st century.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources and further reading.md"
+                "file": "Personal Knowledge Management - tools and techniques for learning in the 21st century.md"
               }
             }
           }
@@ -109,15 +110,15 @@
   },
   "active": "576cc8464c487c17",
   "lastOpenFiles": [
+    "Personal Knowledge Management - tools and techniques for learning in the 21st century.md",
     "Resources and further reading.md",
+    "Introduction.md",
+    "PKM - an overview.md",
+    "README.md",
     "Obsidian.md",
     "presentation outline.md",
     "edtech should make the compounding effects of increasing knowledge explicit.md",
     "breaking down learning material into basic units of knowledge reduces the complexity of understanding.md",
-    "Personal Knowledge Management - tools and techniques for learning in the 21st century.md",
-    "PKM - an overview.md",
-    "Introduction.md",
-    "spaced-repetition flashcards.md",
-    "networked note-taking.md"
+    "spaced-repetition flashcards.md"
   ]
 }
