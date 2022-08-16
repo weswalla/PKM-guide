@@ -6,7 +6,7 @@ At first, networked notes may seem like a new and foreign concept. After all, we
 
 But the truth is, **we are all very familar with graph-based note structures**. Just think about [Wikipedia](https://en.wikipedia.org/wiki/Personal_knowledge_management) for example. Navigating Wikipedia is really intuitive.
 
-For some reason, though, this paradign hasn't penetrated personal computers and local file storage. There is no reason why there is only one way to access a file on a computer. With links, we can link a file/note from anywhere else, allowing notes to be stored **contextually** in addition to categorically.
+For some reason, though, this paradigm hasn't penetrated personal computers and local file storage. There is no reason why there is only one way to access a file on a computer. With links, we can link a file/note from anywhere else, allowing notes to be stored **contextually** in addition to categorically.
 
 Networked note-taking is like creating your own personal wiki, with a few added features which make navigating even more intuitive, for example:
 - backlinks
@@ -17,8 +17,10 @@ There are a number of different applications to choose from, my personal choice 
 - Roam Research
 - Athens Research
 - RemNote
+- Logseq
 
-They differ slightly, but they all provide the same **key features**.
+They differ slightly, but they all provide the same **key features**. I prefer Obisidian because of the following features:
+![[Obsidian#advantages]]
 
 # key features of networked note-taking
 ## link creation
@@ -40,6 +42,8 @@ With that said, there are a few guiding principles to follow:
 - rather than thinking about categories for storage and structure, think about **context** and **discovery**
 - the goal is to make it easy for your future self to find relevant info in whichever context you may find yourself in
 
+# PARA - a simple organizational framework for all digital resources
+see [[PARA - organizational framework]]
 # Zettelkasten - a more formalized approach to networked note-taking
 see [[Zettelkasten]]
 

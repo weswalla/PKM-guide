@@ -1,6 +1,11 @@
 # about
 ![[README#what is Obsidian]]
 
+# advantages
+- multi-pane
+- multimedia handling
+	- images, pdfs, diagrams, audio - still with backlinks
+- simultaneous folder structuring
 # formatting text with markdown
 Obsidian uses markdown to format text. [Markdown](https://www.markdownguide.org/) is a way to format the style of text using the text itself instead of buttons in a user interface.
 

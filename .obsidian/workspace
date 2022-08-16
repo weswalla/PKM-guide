@@ -9,8 +9,21 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal Knowledge Management - tools and techniques for learning in the 21st century.md",
-            "mode": "preview"
+            "file": "PARA - organizational framework.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d5f53c574c93c51e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "find",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "14bae777a608f30b",
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Knowledge Management - tools and techniques for learning in the 21st century.md",
+                "file": "PARA - organizational framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Knowledge Management - tools and techniques for learning in the 21st century.md"
+                "file": "PARA - organizational framework.md"
               }
             }
           }
@@ -105,20 +117,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "576cc8464c487c17",
   "lastOpenFiles": [
-    "Personal Knowledge Management - tools and techniques for learning in the 21st century.md",
-    "README.md",
-    "Resources and further reading.md",
-    "mind-bike training wheels/spaced-repetition flashcards.md",
-    "Obsidian.md",
     "mind-bike training wheels/networked note-taking.md",
-    "mind-bike training wheels/information processing.md",
-    "PKM - an overview.md",
+    "Obsidian.md",
     "Introduction.md",
-    "Zettelkasten example notes/breaking down learning material into basic units of knowledge reduces the complexity of understanding.md"
+    "training-wheels.png",
+    "PKM - an overview.md",
+    "presentation outline.md",
+    "contextual discovery.md",
+    "Zettelkasten example notes/networked note-taking lacks well-developed principles and requires an exploratory mindset.md",
+    "Personal Knowledge Management - tools and techniques for learning in the 21st century.md",
+    "Zettelkasten.md"
   ]
 }

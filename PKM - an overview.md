@@ -1,6 +1,12 @@
 # what is PKM?
 Broadly speaking, PKM consists of a set of tools and techniques for learning such that our knowledge **compounds** over time (see [[edtech should make the compounding effects of increasing knowledge explicit]]).
 
+# TL;DR
+- develop a system to process new information ([[information processing#content inbox]])
+- organize for **[[contextual discovery]]**, not categorical elegance
+- write and review flashcards regularly to train your long term memory
+
+
 # the main categories of PKM
 PKM is a broad field, and there are many different approaches. The following are three categories that I find most practical.
 ## information processing

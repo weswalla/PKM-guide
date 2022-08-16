@@ -1,7 +1,7 @@
 # QR code to this vault
 ![](github-repo-qr.png)
 
-https://github.com/WFinck97/PKM-guide
+https://github.com/weswalla/PKM-guide
 # get started
 ![[README#dive deeper]]
 ![[information processing#content inbox]]

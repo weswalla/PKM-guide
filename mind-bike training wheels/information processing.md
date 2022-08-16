@@ -5,7 +5,7 @@ Much of the information we consume is digital and mediated by computers. The amo
 There are a number of different services that can be used, here are a few:
 - default browser bookmarks (for example, having an 'inbox' folder)
 - [Raindrop.io — All-in-one bookmark manager](https://raindrop.io/) - browser extension and mobile app
-	- I use this one for bookmarking basically any kind of content
+- [Memex](https://memex.garden/) - social bookmark manager and web annotations
 - [Instapaper](https://www.instapaper.com/) - read it later app
 	- I use this one to save articles and read them at a later time
 	- (pro tip: if you have a kindle, you can get articles sent to it automatically through Instapaper)
